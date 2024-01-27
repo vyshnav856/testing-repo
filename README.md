@@ -1,5 +1,4 @@
 # testing-repo
-Testing for testing
+Testing 
 
-No one really knows what this repo does
-This line was added at 9:30 PM.
+For testing git features
